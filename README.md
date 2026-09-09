@@ -5,20 +5,25 @@ If you want to know more about WoW emulation, or just want to chat with me, join
 
 This article is available in the following languages:
 
+- 🇵🇸 [ARABIC](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/ARABIC.md)
+- 🇨🇳 [CHINESE](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/CHINESE.md)
 - 🇬🇧 [ENGLISH](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/ENGLISH.md)
-- 🇮🇹 [ITALIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/ITALIAN.md)
 - 🇫🇷 [FRENCH](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/FRENCH.md)
-- 🇪🇸 [SPANISH](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/SPANISH.md)
-- 🇵🇹 [PORTUGUESE](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/PORTUGUESE.md)
-- 🇷🇺 [RUSSIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/RUSSIAN.md)
-- 🇭🇺 [HUNGARIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/HUNGARIAN.md)
 - 🇩🇪 [GERMAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/GERMAN.md)
+- 🇭🇺 [HUNGARIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/HUNGARIAN.md)
+- 🇮🇹 [ITALIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/ITALIAN.md)
 - 🇲🇸 [MALAY](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/MALAY.md)
 - 🇵🇱 [POLISH](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/POLISH.md)
+- 🇵🇹 [PORTUGUESE](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/PORTUGUESE.md)
 - 🇷🇴 [ROMANIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/ROMANIAN.md)
-- 🇨🇳 [CHINESE](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/CHINESE.md)
+- 🇷🇺 [RUSSIAN](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/RUSSIAN.md)
+- 🇪🇸 [SPANISH](https://github.com/FrancescoBorzi/why-I-hate-wow-private-servers/blob/master/SPANISH.md)
 
 **More translations are welcome!** You can submit new language versions via Pull Requests. ;)
+
+Video that explains the philosophy in this repository:
+
+- [🇬🇧 English](https://www.youtube.com/watch?v=YIiGOgNdGts)
 
 ### Disclaimer for fellow developers
 
